@@ -1,4 +1,4 @@
-%BME772 Lab 4
+
 %% Loading Data and Definitions
 load('/Volumes/GoogleDrive/My Drive/University/BME772 Signal Analysis/Lab 4/lab4data.mat');
 [FA,fs2]= audioread('/Volumes/GoogleDrive/My Drive/University/BME772 Signal Analysis/Lab 4/Data/female_a.wav');
